@@ -1,0 +1,25 @@
+_repo: State-of-the-Union-Addresses_5020
+creator:
+  author:
+    agent_name: Taylor, Zachary
+    alias: United States President (1849-1850)
+    birthdate: 1784
+    deathdate: 1850
+    gutenberg_agent_id: '1645'
+    url: http://www.gutenberg.org/2009/agents/1645
+    wikipedia: http://en.wikipedia.org/wiki/Zachary_Taylor
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5020'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Politics and government -- Sources'
+- !lcc 'J'
+- !lcsh 'Presidents -- United States -- Messages'
+title: State of the Union Addresses
+url: http://www.gutenberg.org/ebooks/5020
